@@ -1,6 +1,6 @@
 # Olá ✌️
 
-Meu nome é Gustavo e sou formado em Engenharia de Produção. Nascido e criado em Minas Gerais - Brasil, tenho dedicado os meus estudos nas áreas de programação e ciência de dados. 
+Meu nome é Gustavo e sou formado em Engenharia de Produção e Eng. de Segurança do Trabalho. Nascido e criado em Minas Gerais - Brasil, tenho dedicado os meus estudos nas áreas de programação e ciência de dados. 
 
 E para percorrer essa trilha de aprendizado, nada melhor que a criação de projetos e muita mão na massa, e é isto que espero compartilhar cada vez mais com vocês. 
 
