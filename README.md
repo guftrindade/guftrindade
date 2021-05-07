@@ -1,4 +1,4 @@
-# Olá ✌️
+# Olá ✌️ 
 
 Meu nome é Gustavo e sou formado em Engenharia de Produção e Eng. de Segurança do Trabalho. Nascido e criado em Minas Gerais - Brasil, tenho dedicado os meus estudos nas áreas de programação e ciência de dados. 
 
@@ -10,6 +10,8 @@ E para percorrer essa trilha de aprendizado, nada melhor que a criação de proj
 - Python
 - SQL
 - R
+
+![giphy](https://user-images.githubusercontent.com/67704261/117446329-4eb9be80-af12-11eb-90d8-361d178b4119.gif)
 
 ### :iphone: Contato:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/https://github.com/guftrindade)](https://github.com/https://github.com/guftrindade)
