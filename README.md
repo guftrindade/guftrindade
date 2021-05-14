@@ -1,6 +1,6 @@
 # Olá ✌️ 
 
-Meu nome é Gustavo e sou formado em Engenharia de Produção e Eng. de Segurança do Trabalho. Tenho dedicado os meus estudos nas áreas de programação e ciência de dados. 
+#### Eu sou o Gustavo... formado em Engenharia de Produção e Eng. de Segurança do Trabalho. Agora, estou em transição de carreira... tenho dedicado os meus estudos nas áreas de programação e ciência de dados.
 
 <p align="center">
   <img align="center" height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=guftrindade&layout=compact&theme=default" />
