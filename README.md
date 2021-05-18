@@ -13,7 +13,8 @@
 - E mais algumas outras coisas divertidas
 
 
-## 👨🏻‍✈️ Sobre:
+## 
+<height="50" src="https://user-images.githubusercontent.com/67704261/118710027-22e0e780-b7f4-11eb-937a-10b3b43d31e6.png" /> Sobre:
 Nascido e criado em Minas Gerais, sou apaixonado pela aviação, corrida ao ar livre, cinema, amante de café e sei fazer um bom churrasco.
 
 ## Contato :iphone:
