@@ -6,18 +6,18 @@
   <img align="center" height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=guftrindade&layout=compact&theme=default" />
 </p>
 
-## 👨🏼‍💻 Interesses em:
+## <img align="center" height="40" src="https://user-images.githubusercontent.com/67704261/118710586-e06bda80-b7f4-11eb-8351-39d293f875c0.png" /> Interesses em:
 - Programação FullStack
 - Machine Learning
 - Ciência de Dados
 - E mais algumas outras coisas divertidas
 
 
-## 
-<height="50" src="https://user-images.githubusercontent.com/67704261/118710027-22e0e780-b7f4-11eb-937a-10b3b43d31e6.png" /> Sobre:
+## <img align="center" height="40" src="https://user-images.githubusercontent.com/67704261/118710027-22e0e780-b7f4-11eb-937a-10b3b43d31e6.png" /> Sobre:
 Nascido e criado em Minas Gerais, sou apaixonado pela aviação, corrida ao ar livre, cinema, amante de café e sei fazer um bom churrasco.
 
-## Contato :iphone:
+
+## :iphone:  Contato:
 
 <p align="center">
     <a href="https://github.com/guftrindade">
