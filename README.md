@@ -40,7 +40,7 @@ Agora, estou em transição de carreira... tenho dedicado os meus estudos nas á
 
 ## <img align="center" height="40" src="https://user-images.githubusercontent.com/67704261/118710027-22e0e780-b7f4-11eb-937a-10b3b43d31e6.png" /> Sobre:
 Nascido e criado em Minas Gerais, sou apaixonado pela aviação, corrida ao ar livre, cinema, amante de café e sei fazer um bom churrasco. 
-Nós últimos 5 anos tenho também dedicado meus estudos em investimentos, em especial, o mercado de ações. Caso queira trocar uma idéia me chama, quem sabe podemos ganhar uma grana... ou não rs
+Nós últimos 5 anos tenho também dedicado meus estudos em investimentos, especialmente o mercado de ações. Caso queira trocar uma idéia me chama, quem sabe podemos ganhar uma grana... ou não rs
 
 
 ## :iphone:  Contato:
