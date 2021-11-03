@@ -17,15 +17,11 @@ Agora, estou em transição de carreira... tenho dedicado os meus estudos nas á
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://user-images.githubusercontent.com/67704261/119135257-9103f500-ba14-11eb-80e9-376e2117e668.png">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://user-images.githubusercontent.com/67704261/119136276-d8d74c00-ba15-11eb-920f-2a0f1e4a6971.png">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://user-images.githubusercontent.com/67704261/119136974-ad089600-ba16-11eb-87ad-bafcc771885c.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://user-images.githubusercontent.com/67704261/119136629-4aaf9580-ba16-11eb-9e7d-74474003dbde.png" alt="spring" >
    
   
 </p>
@@ -33,7 +29,6 @@ Agora, estou em transição de carreira... tenho dedicado os meus estudos nas á
 
 ## <img align="center" height="40" src="https://user-images.githubusercontent.com/67704261/118710586-e06bda80-b7f4-11eb-8351-39d293f875c0.png" /> Interesses em:
 - Programação FullStack
-- Machine Learning
 - Ciência de Dados
 - E mais algumas outras coisas divertidas
 
