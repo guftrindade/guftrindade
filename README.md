@@ -22,14 +22,18 @@ Agora, estou em transição de carreira... tenho dedicado os meus estudos nas á
     <img height="40" src="https://user-images.githubusercontent.com/67704261/119136974-ad089600-ba16-11eb-87ad-bafcc771885c.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-   
-  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://user-images.githubusercontent.com/67704261/140072055-459e7d7b-e90c-44ab-b998-0c2e8113ff7b.png">
+
+
 </p>
 
 
 ## <img align="center" height="40" src="https://user-images.githubusercontent.com/67704261/118710586-e06bda80-b7f4-11eb-8351-39d293f875c0.png" /> Interesses em:
 - Programação FullStack
-- Ciência de Dados
+- .NET MVC
+- Banco de Dados
+- Ciência de Dados / Machine Learning / Inteligência Artificial
 - E mais algumas outras coisas divertidas
 
 
