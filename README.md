@@ -1,8 +1,6 @@
 # Olá ✌️ 
 
-Sou formado em Engenharia de Produção e Eng. de Segurança do Trabalho. 
-Agora, estou em transição de carreira... tenho dedicado os meus estudos nas áreas de programação e ciência de dados. Espero aqui no GitHub compartilhar um pouco de meus projetos e minha jornada constante de aprendizado.  
-
+Estudante de Análise e Desenvolvimento de Sistemas, sou formado em Engenharia de Produção e pós graduado em Eng. de Segurança do Trabalho, mas agora vivendo uma transição de carreira para a programação. 
 
 
 <p align="center">
@@ -24,16 +22,17 @@ Agora, estou em transição de carreira... tenho dedicado os meus estudos nas á
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://user-images.githubusercontent.com/67704261/140072055-459e7d7b-e90c-44ab-b998-0c2e8113ff7b.png">
-
-
 </p>
+
+
+## <img align="center" height="40" src="https://user-images.githubusercontent.com/67704261/142783450-9796b7b0-e4c5-49c6-bd0e-a70241256d70.png" /> Certificações:
+<img height="130" src="https://user-images.githubusercontent.com/67704261/142783472-3762b346-94e4-45e6-9908-b3360dc2cf84.png">
 
 
 ## <img align="center" height="40" src="https://user-images.githubusercontent.com/67704261/118710586-e06bda80-b7f4-11eb-8351-39d293f875c0.png" /> Interesses em:
 - Programação FullStack
 - .NET MVC
 - Banco de Dados
-- Ciência de Dados / Machine Learning / Inteligência Artificial
 - E mais algumas outras coisas divertidas
 
 
