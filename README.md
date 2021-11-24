@@ -1,11 +1,13 @@
 # Olá ✌️ 
 
-Estudante de Análise e Desenvolvimento de Sistemas, sou formado em Engenharia de Produção e pós graduado em Eng. de Segurança do Trabalho, mas agora vivendo uma transição de carreira para a programação. 
+  Estudante de Análise e Desenvolvimento de Sistemas, sou formado em Engenharia de Produção e pós graduado em Eng. de Segurança do Trabalho, mas agora vivendo uma transição de carreira para a programação. 
 
 
 <p align="center">
-  <img align="center" height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=guftrindade&layout=compact&theme=default" />  
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guftrindade&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats" />  
 </p>
+
+
 
 ## Desenvolvendo Habilidades em:
 <p align="center">
