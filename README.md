@@ -1,6 +1,6 @@
 # Olá ✌️ 
 
-  Estudante de Análise e Desenvolvimento de Sistemas, sou formado em Engenharia de Produção e pós graduado em Eng. de Segurança do Trabalho, mas agora vivendo uma transição de carreira para a programação. Tenho me qualificado em programação Full Stack com .Net, C# e Banco de Dados (SQL). Possuo conhecimento em Metodologias Ágeis, versionamento de código GIT e Power BI, além de JavaScript, HTML, CSS.
+  Estudante de Análise e Desenvolvimento de Sistemas, sou formado em Engenharia de Produção mas agora vivendo uma transição de carreira para a tecnologia. Tenho me qualificado em programação Back-end com .Net e sou apaixonado por Metodologias Ágeis, acredito que podemos aplicá-las em todas as áreas de nossas vidas, não apenas no ambiente de trabalho. 
 
 
 <p align="center">
