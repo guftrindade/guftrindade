@@ -31,12 +31,6 @@
 <img height="130" src="https://user-images.githubusercontent.com/67704261/142783472-3762b346-94e4-45e6-9908-b3360dc2cf84.png">
 
 
-## <img align="center" height="40" src="https://user-images.githubusercontent.com/67704261/118710586-e06bda80-b7f4-11eb-8351-39d293f875c0.png" /> Interesses em:
-- Programação FullStack
-- .NET MVC
-- Banco de Dados
-- E mais algumas outras coisas divertidas
-
 
 ## :iphone:  Contato:
 
