@@ -1,6 +1,5 @@
 # Olá ✌️ 
 
-  Estudante de Análise e Desenvolvimento de Sistemas, sou formado em Engenharia de Produção mas agora vivendo uma transição de carreira para a tecnologia. Tenho me qualificado em programação Back-end com .Net e sou apaixonado por Metodologias Ágeis, acredito que podemos aplicá-las em todas as áreas de nossas vidas, não apenas no ambiente de trabalho. 
 
 
 <p align="center">
@@ -19,7 +18,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://user-images.githubusercontent.com/67704261/140072055-459e7d7b-e90c-44ab-b998-0c2e8113ff7b.png">
 </p>
-![icon](./src/Wiz.SsoConnect.Extension/img/icon.png) 
 
 
 
