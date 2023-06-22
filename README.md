@@ -14,8 +14,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://user-images.githubusercontent.com/67704261/216823155-d9beb49a-d348-4cd6-bc0e-13abd3e6dcee.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://user-images.githubusercontent.com/67704261/119136276-d8d74c00-ba15-11eb-920f-2a0f1e4a6971.png">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://user-images.githubusercontent.com/67704261/216822972-9e815a16-5f2c-4c20-b378-0367affde7e1.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://user-images.githubusercontent.com/67704261/216823102-6cf271a2-f6c5-48b5-be88-35a3186e947a.png">
@@ -23,7 +21,10 @@
     <img height="40" src="https://user-images.githubusercontent.com/67704261/216823450-e53318fa-b815-4cb0-9855-29edfd2329f6.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://github.com/guftrindade/guftrindade/assets/67704261/7374a394-49fa-4497-b2e9-f904f80a1090">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/guftrindade/guftrindade/assets/67704261/6983d4ae-3b83-48d1-a09a-98e73866f8b7">
 </p>
+
 
 ## Certificações:
 <p align="center">
