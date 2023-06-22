@@ -2,7 +2,7 @@
 
 ***<p style="text-align:justify ;">Trabalho principalmente com as tecnologias .NET, C# e Azure. Tenho experiência de um pouco mais de um ano no desenvolvimento back-end de API’s REST utilizando as tecnologias .Net, C#, Azure, SQL Server, Metodologias Ágeis,GIT, DevOps e CI/CD. Durante esta jornada, realizei a implementação e manutenção de API 's, além de integrações com sistemas de seguradores, Azure Devops e serviços de autenticação e autorização OAuth 2.0. </p>***
 
-***<p style="text-align: center;">Atualmente tenho direcionado meus estudos para Mensageria (RabbitMQ/Kafka), Microsserviços, Docker, Design Patterns e React.js</p>***
+***<p style="text-align: center;">Atualmente tenho direcionado meus estudos para Mensageria (RabbitMQ/Kafka), Microsserviços e React.js</p>***
 
 <p align="center">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guftrindade&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats" />  
