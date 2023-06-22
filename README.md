@@ -1,14 +1,12 @@
-## Olá, eu sou o Gustavo! 
+# 👨‍💼 Hi, I'm Gustavo!
 
-***<p style="text-align:justify ;">Trabalho principalmente com as tecnologias .NET, C# e Azure. Tenho experiência de um pouco mais de um ano no desenvolvimento back-end de API’s REST utilizando as tecnologias .Net, C#, Azure, SQL Server, Metodologias Ágeis,GIT, DevOps e CI/CD. Durante esta jornada, realizei a implementação e manutenção de API 's, além de integrações com sistemas de seguradores, Azure Devops e serviços de autenticação e autorização OAuth 2.0. </p>***
 
-***<p style="text-align: center;">Atualmente tenho direcionado meus estudos para Mensageria (RabbitMQ/Kafka), Microsserviços e React.js</p>***
 
 <p align="center">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guftrindade&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats" />  
 </p>
 
-## Tecnologias:
+## Experience in:
 <p align="center">
     <img height="40" src="https://user-images.githubusercontent.com/67704261/140072055-459e7d7b-e90c-44ab-b998-0c2e8113ff7b.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,7 +24,7 @@
 </p>
 
 
-## Certificações:
+## Certifications:
 <p align="center">
     <img height="100" src="https://user-images.githubusercontent.com/67704261/216822600-baafafe9-27c4-4ab6-b528-2d8a512bc740.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,7 +32,7 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Contato:
+## Contact Info:
 
 <p align="center">
     <a href="https://github.com/guftrindade">
