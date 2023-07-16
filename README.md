@@ -25,7 +25,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://github.com/guftrindade/guftrindade/assets/67704261/6983d4ae-3b83-48d1-a09a-98e73866f8b7">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://github.com/guftrindade/guftrindade/assets/67704261/c6bdebfe-6477-4650-887b-334e0dcc13e4">
+    <img height="50" src="https://github.com/guftrindade/guftrindade/assets/67704261/c6bdebfe-6477-4650-887b-334e0dcc13e4">
 
 </p>
 
