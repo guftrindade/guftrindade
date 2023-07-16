@@ -17,10 +17,16 @@
     <img height="40" src="https://user-images.githubusercontent.com/67704261/216823102-6cf271a2-f6c5-48b5-be88-35a3186e947a.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://user-images.githubusercontent.com/67704261/216823450-e53318fa-b815-4cb0-9855-29edfd2329f6.png">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+## I have studied about:
+<p align="center">
     <img height="40" src="https://github.com/guftrindade/guftrindade/assets/67704261/7374a394-49fa-4497-b2e9-f904f80a1090">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://github.com/guftrindade/guftrindade/assets/67704261/6983d4ae-3b83-48d1-a09a-98e73866f8b7">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/guftrindade/guftrindade/assets/67704261/c6bdebfe-6477-4650-887b-334e0dcc13e4">
+
 </p>
 
 
