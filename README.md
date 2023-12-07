@@ -21,7 +21,7 @@
     <img height="40" src="https://user-images.githubusercontent.com/67704261/216823450-e53318fa-b815-4cb0-9855-29edfd2329f6.png">
 </p>
 
-## I have studied about:
+## I have been studying:
 <p align="center">
     <img height="45" src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
