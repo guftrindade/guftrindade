@@ -18,12 +18,13 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-11-1175122.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://github.com/guftrindade/guftrindade/assets/67704261/c1fad8b7-b100-4144-a80c-41f7dda602ac">
+  <img height="40" src="https://github.com/guftrindade/guftrindade/assets/67704261/a837cc48-e94b-4bab-8700-bb2b294c6edb">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://github.com/guftrindade/guftrindade/assets/67704261/c6bdebfe-6477-4650-887b-334e0dcc13e4">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://user-images.githubusercontent.com/67704261/216823450-e53318fa-b815-4cb0-9855-29edfd2329f6.png">
 </p>
+
 
 ## I have been studying:
 <p align="center">
