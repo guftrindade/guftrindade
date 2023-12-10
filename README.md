@@ -14,7 +14,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://user-images.githubusercontent.com/67704261/216822972-9e815a16-5f2c-4c20-b378-0367affde7e1.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="43" src="https://user-images.githubusercontent.com/67704261/216823102-6cf271a2-f6c5-48b5-be88-35a3186e947a.png">
+    <img height="45" src="https://github.com/guftrindade/guftrindade/assets/67704261/1923a58d-1c04-4556-99af-ce53ced07073">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-11-1175122.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
