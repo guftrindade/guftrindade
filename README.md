@@ -14,9 +14,13 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://user-images.githubusercontent.com/67704261/216822972-9e815a16-5f2c-4c20-b378-0367affde7e1.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://user-images.githubusercontent.com/67704261/216823102-6cf271a2-f6c5-48b5-be88-35a3186e947a.png">
+    <img height="43" src="https://user-images.githubusercontent.com/67704261/216823102-6cf271a2-f6c5-48b5-be88-35a3186e947a.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-11-1175122.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://github.com/guftrindade/guftrindade/assets/67704261/c1fad8b7-b100-4144-a80c-41f7dda602ac">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/guftrindade/guftrindade/assets/67704261/c6bdebfe-6477-4650-887b-334e0dcc13e4">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://user-images.githubusercontent.com/67704261/216823450-e53318fa-b815-4cb0-9855-29edfd2329f6.png">
 </p>
@@ -26,11 +30,10 @@
     <img height="45" src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://github.com/guftrindade/guftrindade/assets/67704261/6983d4ae-3b83-48d1-a09a-98e73866f8b7">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://github.com/guftrindade/guftrindade/assets/67704261/c6bdebfe-6477-4650-887b-334e0dcc13e4">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_vertical_logo_icon_169585.png">
-
+    <img height="43" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_vertical_logo_icon_169585.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="42" src="https://github.com/guftrindade/guftrindade/assets/67704261/e0ffde31-cd73-4599-b9ed-50aeb9d00472">
 </p>
 
 
