@@ -45,7 +45,7 @@
 <p align="center">
     <img height="100" src="https://user-images.githubusercontent.com/67704261/216822600-baafafe9-27c4-4ab6-b528-2d8a512bc740.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="110" src="https://user-images.githubusercontent.com/67704261/142783472-3762b346-94e4-45e6-9908-b3360dc2cf84.png">
+    <img height="110" src="https://github.com/guftrindade/guftrindade/assets/67704261/4633c53a-e18c-441b-b486-89b3932cb3c5">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="110" src="https://github.com/guftrindade/guftrindade/assets/67704261/e888c130-767f-42b9-bb2d-525e2009de30">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
