@@ -47,6 +47,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="110" src="https://user-images.githubusercontent.com/67704261/142783472-3762b346-94e4-45e6-9908-b3360dc2cf84.png">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="110" src="https://github.com/guftrindade/guftrindade/assets/67704261/e888c130-767f-42b9-bb2d-525e2009de30">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
 ## Contact Info:
