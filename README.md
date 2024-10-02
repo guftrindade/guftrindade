@@ -24,7 +24,7 @@
 
 
 ## ⚡ Certifications
-- 🏅 [Microsoft Certified: Az900 - Azure Fundamentals](https://www.credly.com/badges/ac7bd337-7cbf-4d87-9abd-3d7917a8ffa0)
+- 🏅 [Microsoft Certified: AZ900 - Azure Fundamentals](https://www.credly.com/badges/ac7bd337-7cbf-4d87-9abd-3d7917a8ffa0)
 - 🏅 [SCRUMstudy Certified: Scrum Fundamentals](https://www.scrumstudy.com/certification/verify?type=SFC&number=883928)
 - 🏅 [Confluent Fundamentals Accreditation - Kafka](https://www.credential.net/cf162166-d0d6-4b35-9ca5-f61971b50c73#gs.g2buot)
 - 🏅 [API Designer](https://www.linkedin.com/company/api-academy)
