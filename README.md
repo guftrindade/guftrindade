@@ -1,8 +1,8 @@
-## Hello there, I'm Gustavo 👋
+## Hello there 👋
 
 <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guftrindade&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats"/>
 
-- 🔭 I’m currently working on [OnPoint Insurtech](https://www.linkedin.com/company/onpointinsurtech/)
+- 🔭 I’m currently working at [OnPoint Insurtech](https://www.linkedin.com/company/onpointinsurtech/)
 - 🎓 Postgraduate Degree in Agile Software Engineering	
 - 🎓 Technologist Degree in Analysis and Systems Development
 - 🎓 B.Sc. in Production Engineering
