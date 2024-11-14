@@ -6,7 +6,7 @@
 - 🎓 Postgraduate Degree in Agile Software Engineering	
 - 🎓 Technologist Degree in Analysis and Systems Development
 - 🎓 B.Sc. in Production Engineering
-- 🌱 I’m currently learning React.js, TypeScript, Kafka, DDD, Clean Architecture, Design Patterns and much more.
+- 🌱 I’m currently learning React.js, Kafka, Software Architecture, and much more.
 
 ## 🧐 About
 
