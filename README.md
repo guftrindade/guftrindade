@@ -16,7 +16,6 @@
 - Backend development using **C#, .NET Core**
 - Data base **Microsoft SQL Server, Postgre SQL, Redis, MongoDB**
 - Cloud with **Microsoft Azure**
-- Front-end development using **React.js, Next.js, Javscript, HTML**
 - Message broker and Event Driven using **Azure Service Bus, RabbitMQ, Kafka**
 - Real time integration using **SignalR**
 - Agile Methodologies **Scrum, Kanban, CI/CD Azure DevOps**
